@@ -1,5 +1,11 @@
 # emiteai-webapi
 
+
+
+## Setar URL
+```
+No arquivo ./service/axios.service.js coloque a URL do servlet rodando no "this.url"
+```
 ## Project setup
 ```
 npm install
